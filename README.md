@@ -1,3 +1,5 @@
+**This is a fork of great work done by @leabhart.  I only ported to nix for ease of use.**
+
 # Maldocs
 Scripting together some of my favorite Python tools for doing initial triage of a suspected malicious document (e.g. PDF, DOC, DOCX, XSLM, etc.)
 
